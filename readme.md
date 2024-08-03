@@ -2,4 +2,3 @@
 
 I study in Netology
 
-hello
